@@ -35,3 +35,6 @@ https://api.lyrics.ovh/suggest/inputQuery
 # Commands
 
 - Run `npm run develop` to run app locally
+
+# Hosted on
+https://desmond-lyrics-12a592.netlify.app/
